@@ -22,7 +22,7 @@ const Home = () => {
                 <div className="col-span-2 border">
                     <h1>THis is center section</h1>
                 </div>
-                <div className=" border">
+                <div className="">
                     {/* <RightSideNav>
                     </RightSideNav> */}
                     <RightNav></RightNav>
