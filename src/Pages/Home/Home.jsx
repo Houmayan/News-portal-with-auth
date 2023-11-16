@@ -3,12 +3,14 @@ import MyHeader from "../Shared/Header/MyHeader";
 import LeftSideNav from "../Shared/LeftSideNav/LeftSideNav";
 import MyNavbar from "../Shared/Navbar/MyNavbar";
 import RightNav from "../Shared/RightSideNav/RightNav";
+import BreakingNews from "./BreakingNews";
 
 const Home = () => {
     return (
         <div>
              
              <MyHeader></MyHeader>
+             <BreakingNews></BreakingNews>
              <MyNavbar></MyNavbar>
             {/* <h1 className="text-6xl  font-poppins">This is home</h1> */}
 
