@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         poppins: "'Poppins', sans-serif",
+        kadam: "'Kdam Thmor Pro', sans-serif",
       },
     },
   },
